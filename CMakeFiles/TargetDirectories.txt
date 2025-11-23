@@ -1,0 +1,3 @@
+/home/matt/Documents/better-ping/build/CMakeFiles/untitled4.dir
+/home/matt/Documents/better-ping/build/CMakeFiles/edit_cache.dir
+/home/matt/Documents/better-ping/build/CMakeFiles/rebuild_cache.dir
